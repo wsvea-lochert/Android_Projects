@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">avgCalculator</string>
+    <string name="Calculate">Button</string>
+    <string name="grade">Name</string>
+</resources>
